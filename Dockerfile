@@ -1,2 +1,2 @@
 FROM nginx:lastest
-COPY * /usr/share/nginx/
+COPY web-app  /usr/share/nginx/
